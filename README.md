@@ -6,10 +6,10 @@ This is autoinstall GenieACS
 apt install git curl -y
 ```
 ```
-git clone https://github.com/rznetwork-imy/genieacsrja
+git clone https://github.com/rznetwork-imy/rja
 ```
 ```
-cd genieacsrja
+cd rja
 ```
 ```
 chmod +x install.sh && chmod +x installdemo.sh
